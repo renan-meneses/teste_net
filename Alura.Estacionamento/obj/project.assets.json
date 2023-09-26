@@ -8,24 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/home/renanmeneses/.nuget/packages/": {}
+    "C:\\Users\\andre\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/renanmeneses/Projetos/Study/alura.estacionamento-aula02/Alura.Estacionamento/Alura.Estacionamento.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aula06\\Alura.Estacionamento\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
       "projectName": "Alura.Estacionamento",
-      "projectPath": "/home/renanmeneses/Projetos/Study/alura.estacionamento-aula02/Alura.Estacionamento/Alura.Estacionamento.csproj",
-      "packagesPath": "/home/renanmeneses/.nuget/packages/",
-      "outputPath": "/home/renanmeneses/Projetos/Study/alura.estacionamento-aula02/Alura.Estacionamento/obj/",
+      "projectPath": "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aula06\\Alura.Estacionamento\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
+      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aula06\\Alura.Estacionamento\\Alura.Estacionamento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/renanmeneses/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -49,31 +51,16 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.linux-x64",
-            "version": "[5.0.17, 5.0.17]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
